@@ -1,2 +1,2 @@
 # CatGallery
-FlexBox Cat Gallery
+CSS FlexBox Cat Gallery
